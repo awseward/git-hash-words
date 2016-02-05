@@ -1,0 +1,26 @@
+{
+  "name": "git-hash-words",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo TODO"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awseward/git-hash-words.git"
+  },
+  "keywords": [
+    "git",
+    "hash",
+    "commit",
+    "words",
+    "author"
+  ],
+  "author": "Andrew Seward",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/awseward/git-hash-words/issues"
+  },
+  "homepage": "https://github.com/awseward/git-hash-words#readme"
+}
